@@ -117,14 +117,14 @@ experiences:
             - Collection and data analytics of HV battery data (for electric cars)
             
       - role: Scrum Master /Product Owner
-        time: 2015 - 2020
+        time: 2014 - 2020
         company: Elektrobit GmbH, Erlangen
         details: |
           
             - Bullet point
             - Bullet point
       - role: Test Lead
-        time: 2008 - 2015
+        time: 2008 - 2014
         company: Elektrobit GmbH, Erlangen
         details: |
           Test Lead for an automotive infotainment system, emergency call and mobile app car integration 
@@ -135,16 +135,27 @@ experiences:
             - Test automation system including VoIP 
             - Test device management and statistics
             - Problem Management Interface to Microsoft 
+            - Introduction courses for Test-Driven-Development in embedded C++
+            - Organization of Coding Dojos
             
       - role: QA Engineer
         time: 2004 - 2008
         company: Elektrobit GmbH, Erlangen
         details: |
             Started as a QA engineer, focusing on internal quality improvements and
-            creating external business getting that knowledge back into the company
-            - Bullet point
-            - Bullet point
-            
+            creating external business to distribute that knowledge back into the company
+            - Project lead, test concept and automation of an automotive amplifier ECU
+            - Project lead, test concept and automation of an on-board power supply control unit
+            - Assessing projects to internal processes and later Automotive SPICE and helping the projects improve 
+
+      - role: Systems engineer electronics
+        time: 1999 - 2004
+        company: DaimlerChrysler Research, Esslingen
+        details: |
+            Started in a team focusing on automotive safety
+            - Working on J2EE application using warranty data in system safety analysis
+            - Creating and moderating FMEA and FTA 
+            - Early works on ISO 26262 topics (The automotive standard based on IEC 61508 standard)
 certifications:
       title: Certifications
       list:
