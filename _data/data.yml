@@ -106,13 +106,15 @@ experiences:
         time: 2020 - Present
         company: AVL DiTEST GmbH, Cadolzburg
         details: |
-          Product Owner of the data team
-          Responsibility diagnostic car data into our tooling
-            - Data conversion into Standard ODX format as a business case
+          Product Owner of the diagnostic data pipeline team
+          Member of the business area steering team multi brand diagnostics
+            - Data conversion pipeline into Standard ODX format 
             - AI based translations
-            - Reduced time to convert vendor data into usable format
-            - Cloud based analysis of tool feedback
-          Member of the Business Area Steering Team Multi Brand Diagnostics
+            - Reduced time to 30% to convert vendor data into diagnostic tooling
+            - Cloud based analysis of diagnostic tool feedback
+            - Managed the outsourcing of the car testing process to Slovenia
+            - Consultancy for the digital transformation of the order entry system
+            
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
