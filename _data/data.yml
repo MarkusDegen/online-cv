@@ -54,12 +54,25 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a versatile professional with a rich background in software development, 
+      including roles as a Scrum Master, QA Engineer, and Product Owner. 
+      I excel in team coordination, product management, and ensuring high quality in software products.
+      
+      In my journey, I have developed strong skills in agile methodologies as a Scrum Master and 
+      in ensuring software quality as a QA Engineer. As a Product Owner, 
+      I've effectively combined these skills to oversee product development, 
+      aligning team efforts with market demands and user needs.
+      
+      My passion for knowledge sharing led me to coach in test-driven development, 
+      where I have trained teams to enhance their skills and adopt best practices. 
+      Additionally, I have been instrumental in creating and nurturing a learning community, 
+      fostering a culture of continuous learning and improvement among peers.
+      
+      With a keen interest in machine learning, I have pursued several courses to integrate 
+      AI and ML insights into product strategy. My goal is to continue evolving as a 
+      Product Owner, leveraging my diverse skills and machine learning knowledge to 
+      innovate and lead in the ever-changing tech landscape.
+      
 education:
     title: Education
     info:
