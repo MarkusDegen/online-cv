@@ -222,7 +222,7 @@ projects:
     assignments:
       - title: Triz Expert
         #link: "#hook"
-        tagline: "A chat GPT assistant to use Triz principles to help in brainstorming engineering. Doing research on prompt engineering, Knowledge Base and how they can be used in LLMs. Also working on a similar problem with Boardgame Mentor, so how to abstract concrete entitieslike game mechanics and then find other similar concrete game mechanics."
+        tagline: "A chat GPT assistant to use Triz principles to help in brainstorming engineering. Doing research on prompt engineering, Knowledge Base and how they can be used in LLMs."
       - title: Stock Helper
         #link: "#hook"
         tagline: "Using machine learning as a filter for interesting stocks for my private portfolio. Different to most stock trading projects i am using all stock data (S&P500) at once."
