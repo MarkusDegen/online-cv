@@ -180,6 +180,31 @@ certifications:
             Serverless Machine Learning with Tensorflow on Google Cloud Platform
         - name: TensorFlow in Practice Specialization
           start: 2019
+          end: 
+          organization: Coursera
+          credentialid: 3KPTVQATUHSH
+          credentialurl: www.coursera.org/account/accomplishments/specialization/3KPTVQATUHSH
+          credentialname: TensorFlow in Practice Specialization
+          details: |
+            Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning<br>
+            Convolutional Neural Networks in TensorFlow<br>
+            Natural Language Processing in TensorFlow<br>
+            Sequences, Time Series and Prediction
+        - name: Deep Learning Specialization
+          start: 2018
+          end: 
+          organization: Coursera
+          credentialid: X42FHNSGUTYQ
+          credentialurl: www.coursera.org/account/accomplishments/specialization/X42FHNSGUTYQ
+          credentialname: Deep Learning Specialization
+          details: |
+            Sequence Models<br>
+            Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization<br>
+            Convolutional Neural Networks<br>
+            Structuring Machine Learning Projects<br>
+            Neural Networks and Deep Learning
+        - name: TensorFlow in Practice Specialization
+          start: 2019
           end: 2019
           organization: Coursera
           credentialid: 3KPTVQATUHSH
@@ -190,7 +215,7 @@ certifications:
             Convolutional Neural Networks in TensorFlow<br>
             Natural Language Processing in TensorFlow<br>
             Sequences, Time Series and Prediction
-
+            
 projects:
     title: Projects
     intro: >
