@@ -106,14 +106,15 @@ experiences:
         time: 2020 - Present
         company: AVL DiTEST GmbH, Cadolzburg
         details: |
-          Product Owner of the diagnostic data pipeline team
-          Member of the business area steering team multi brand diagnostics
+          Product Owner of the diagnostic data pipeline team. Member of the business area steering team multi brand diagnostics.
+            - Steering of the business area multi brand diagnostics as a team
             - Data conversion pipeline into Standard ODX format 
             - AI based translations
             - Reduced time to 30% to convert vendor data into diagnostic tooling
             - Cloud based analysis of diagnostic tool feedback
             - Managed the outsourcing of the car testing process to Slovenia
             - Consultancy for the digital transformation of the order entry system
+            - Collection and data analytics of HV battery data (for electric cars)
             
       - role: Scrum Master /Product Owner
         time: 2015 - 2020
@@ -127,13 +128,14 @@ experiences:
         company: Elektrobit GmbH, Erlangen
         details: |
           Test Lead for an automotive infotainment system, emergency call and mobile app car integration 
-          (very lite version of Andoird Auto) 
+          (very lite version of Android Auto) 
           with 20 Testers (germany, united states)
             - Sold in >> 1 Mio cars
             - Improvement of our Kanban system
             - Test automation system including VoIP 
             - Test device management and statistics
             - Problem Management Interface to Microsoft 
+            
       - role: QA Engineer
         time: 2004 - 2008
         company: Elektrobit GmbH, Erlangen
