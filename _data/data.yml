@@ -275,23 +275,26 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Strategic thinking
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Agile methods
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: Machine Learning in Python
+        level: 60%
 
-      - name: HTML5 & CSS
+      - name: Problem solving
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Decision Intelligence
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Critical Thinking
+        level: 78%
+
+      - name: Teamwork and Leadership
+        level: 82%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
