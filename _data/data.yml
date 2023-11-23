@@ -203,18 +203,17 @@ certifications:
             Convolutional Neural Networks<br>
             Structuring Machine Learning Projects<br>
             Neural Networks and Deep Learning
-        - name: TensorFlow in Practice Specialization
-          start: 2019
-          end: 2019
+        - name: Machine Learning
+          start: 2018
+          end: 
           organization: Coursera
-          credentialid: 3KPTVQATUHSH
-          credentialurl: www.coursera.org/account/accomplishments/specialization/3KPTVQATUHSH
-          credentialname: TensorFlow in Practice Specialization
+          credentialid: KW9AGB7H4YBV
+          credentialurl: www.coursera.org/account/accomplishments/verify/KW9AGB7H4YBV
+          credentialname: Machine Learning
           details: |
-            Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning<br>
-            Convolutional Neural Networks in TensorFlow<br>
-            Natural Language Processing in TensorFlow<br>
-            Sequences, Time Series and Prediction
+            Introduction to Machine Learning<br>
+            Regression with multiple input variables<br>
+            Classification
             
 projects:
     title: Projects
