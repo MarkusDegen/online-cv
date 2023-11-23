@@ -116,7 +116,7 @@ experiences:
             - Consultancy for the digital transformation of the order entry system
             - Collection and data analytics of HV battery data (for electric cars)
             
-      - role: Scrum Master /Product Owner
+      - role: Scrum Master / Product Owner
         time: 2014 - 2020
         company: Elektrobit GmbH, Erlangen
         details: |
@@ -209,10 +209,10 @@ projects:
     assignments:
       - title: Triz Expert
         #link: "#hook"
-        tagline: "A chat GPT assistant to use Triz principles to help in brainstorming engineering"
+        tagline: "A chat GPT assistant to use Triz principles to help in brainstorming engineering. Doing research on prompt engineering, Knowledge Base and how they can be used in LLMs. Also working on a similar problem with Boardgame Mentor, so how to abstract concrete things and then find other similar concrete game mechanics."
       - title: Stock Helper
         #link: "#hook"
-        tagline: "Using machine learning as a filter for interesting stocks for my private portfolio"
+        tagline: "Using machine learning as a filter for interesting stocks for my private portfolio. Different to most stock trading projects i am using all stock data (S&P500) at once."
         
       #- title: DevStudio
       #  link: "#"
