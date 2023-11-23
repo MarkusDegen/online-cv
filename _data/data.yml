@@ -115,29 +115,34 @@ experiences:
             - Managed the outsourcing of the car testing process to Slovenia
             - Consultancy for the digital transformation of the order entry system
             
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Scrum Master /Product Owner
+        time: 2015 - 2020
+        company: Elektrobit GmbH, Erlangen
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
+          
             - Bullet point
             - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: Test Lead
+        time: 2008 - 2015
+        company: Elektrobit GmbH, Erlangen
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
+          Test Lead for an automotive infotainment system, emergency call and mobile app car integration 
+          (very lite version of Andoird Auto) 
+          with 20 Testers (germany, united states)
+            - Sold in >> 1 Mio cars
+            - Improvement of our Kanban system
+            - Test automation system including VoIP 
+            - Test device management and statistics
+            - Problem Management Interface to Microsoft 
+      - role: QA Engineer
+        time: 2004 - 2008
+        company: Elektrobit GmbH, Erlangen
+        details: |
+            Started as a QA engineer, focusing on internal quality improvements and
+            creating external business getting that knowledge back into the company
             - Bullet point
             - Bullet point
-
+            
 certifications:
       title: Certifications
       list:
