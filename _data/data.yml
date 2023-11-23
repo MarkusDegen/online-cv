@@ -173,10 +173,11 @@ certifications:
           credentialurl: www.coursera.org/account/accomplishments/specialization/KZAZY4JUYGXQ
           credentialname: Data Engineering, Big Data, and ML on GCP Specialization
           details: |
-            Google Cloud Big Data and Machine Learning Fundamentals.<br> 
-            Serverless Data Analysis with Google BigQuery and Cloud Dataflow.Building Resilient Streaming Systems on Google Cloud Platform
-            Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform
-            Serverless Machine Learning with Tensorflow on Google Cloud Platform
+            Google Cloud Big Data and Machine Learning Fundamentals<br> 
+            Serverless Data Analysis with Google BigQuery and Cloud Dataflow<br>
+            Building Resilient Streaming Systems on Google Cloud Platform<br>
+            Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform<br>
+            Serverless Machine Learning with Tensorflow on Google Cloud Platform<br>
         - name: TensorFlow in Practice Specialization
           start: 2019
           end: 2019
@@ -201,7 +202,7 @@ projects:
     assignments:
       - title: Triz Expert
         #link: "#hook"
-        tagline: "A chat GPT assistant to use Triz principles to help in brainstorming engineering. Doing research on prompt engineering, Knowledge Base and how they can be used in LLMs. Also working on a similar problem with Boardgame Mentor, so how to abstract concrete things and then find other similar concrete game mechanics."
+        tagline: "A chat GPT assistant to use Triz principles to help in brainstorming engineering. Doing research on prompt engineering, Knowledge Base and how they can be used in LLMs. Also working on a similar problem with Boardgame Mentor, so how to abstract concrete entitieslike game mechanics and then find other similar concrete game mechanics."
       - title: Stock Helper
         #link: "#hook"
         tagline: "Using machine learning as a filter for interesting stocks for my private portfolio. Different to most stock trading projects i am using all stock data (S&P500) at once."
